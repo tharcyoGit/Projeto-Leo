@@ -18,6 +18,10 @@ public class Clone {
         // TODO code application logic here
         
         System.out.println("teste");
+                System.out.println("teste");
+        System.out.println("teste");
+
+        
     }
     
 }
