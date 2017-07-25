@@ -20,6 +20,7 @@ public class Clone {
         System.out.println("teste");
                 System.out.println("teste");
         System.out.println("teste");
+         System.out.println("teste");
 
         
     }
